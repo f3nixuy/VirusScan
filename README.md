@@ -1,5 +1,5 @@
 # VirusScan
-Probado en linux
+Probado en linux y W11
 ![Screenshot_2023-11-05_22_24_09](https://github.com/f3nixuy/VirusScan/assets/50671074/4cdb72b4-2c8d-40b4-bda2-1abead98e515)
 Este programa es un analizador de archivos y URLs que utiliza la API de VirusTotal, un servicio de análisis de archivos y direcciones web en busca de malware y amenazas. El funcionamiento del programa se puede dividir en los siguientes pasos:
 
