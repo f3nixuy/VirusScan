@@ -48,3 +48,5 @@ pip install requests
 PyInstaller (si deseas crear un archivo ejecutable): Si planeas convertir el programa en un archivo ejecutable, debes instalar PyInstaller. Puedes hacerlo con el siguiente comando:
 
 pip install pyinstaller
+
+y API https://developers.virustotal.com/reference/overview
