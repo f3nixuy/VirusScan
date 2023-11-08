@@ -40,3 +40,11 @@ Este programa es un analizador de archivos y URLs que utiliza la API de VirusTot
    - La función `root.mainloop()` inicia la interfaz gráfica y permite al usuario utilizar el programa.
 
 En resumen, este programa te permite analizar archivos y URLs en busca de malware y amenazas utilizando la API de VirusTotal. Los resultados se muestran en una ventana emergente, lo que te permite determinar si un archivo o URL es seguro o malicioso.
+
+Requests: Debes instalar la biblioteca requests si aún no la tienes. Puedes hacerlo con el siguiente comando:
+
+pip install requests
+
+PyInstaller (si deseas crear un archivo ejecutable): Si planeas convertir el programa en un archivo ejecutable, debes instalar PyInstaller. Puedes hacerlo con el siguiente comando:
+
+pip install pyinstaller
